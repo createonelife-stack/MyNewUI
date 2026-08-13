@@ -4,7 +4,7 @@
   "description": "UI mockup / design prototype",
   "lang": "km",
   "dir": "ltr",
-  "start_url": "acleda-app-7.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
