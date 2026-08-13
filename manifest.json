@@ -1,0 +1,21 @@
+{
+  "name": "ACLEDA Mobile (UI Demo)",
+  "short_name": "ACLEDA UI",
+  "description": "UI mockup / design prototype",
+  "lang": "km",
+  "dir": "ltr",
+  "start_url": "acleda-app-7.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1733",
+  "theme_color": "#0b1e40",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
